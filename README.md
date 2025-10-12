@@ -2,7 +2,7 @@
 ## Práctica Universitaria - Laravel
 
 **Estudiante:** Isaac Zamora  
-**Fecha:11 Octubre 2025  
+**Fecha:** 11 Octubre 2025  
 **Framework:** Laravel 11  
 **Testing:** Pest PHP
 
